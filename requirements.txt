@@ -1,0 +1,6 @@
+ezdxf
+pandas
+numpy
+chromadb
+langchain
+langchain-community
